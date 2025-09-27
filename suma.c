@@ -10,6 +10,8 @@ int main() {
     scanf("%d", &num2);
     
     printf("La suma es: %d\n", num1 + num2);
+
+    printf("Gracias por utilizar el programa.\n");
     
     // Pausa para que el resultado se mantenga visible
     printf("Presione Enter para salir...\n");
