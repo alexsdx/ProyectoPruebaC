@@ -2,6 +2,8 @@
 
 int main() {
     int num1, num2;
+
+    printf("Programa que suma dos numeros.\n");
     
     printf("Ingrese el primer numero: ");
     scanf("%d", &num1);
